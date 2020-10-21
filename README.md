@@ -1,7 +1,7 @@
 # Portfolio
 
 ### Introduction
-Hi, My Name is Tong Zhi Wei.  
+Hi, my name is Tong Zhi Wei.  
 Here is my phone number : 012-9832206  
 My email address : lolwish.tzw@gmail.com  
 I'm a Malaysian, of course I fluent in Chinese, English, Malay and Cantonese. But not Hokkien.  
