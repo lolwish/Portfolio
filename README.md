@@ -21,7 +21,7 @@ I first joined the company as an internship for 3 months, and then decided to st
 Below are the projects that I have involved and the job tasks included:  
 
 **Inventory Management System - Kozato Kizai (M) Sdn. Bhd.**  
-**Inventory Management System - eo Aik Hevea (M) Sdn. Bhd.**  
+**Inventory Management System - Yeo Aik Hevea (M) Sdn. Bhd.**  
 **ERP System - Panasonic Appliances Foundry Malaysia Sdn. Bhd.**  
 **DTS Android Application - Merck Sdn. Bhd.**  
 
