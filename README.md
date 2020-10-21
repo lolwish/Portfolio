@@ -4,7 +4,7 @@
 Hi, My Name is Tong Zhi Wei.  
 Here is my phone number : 012-9832206  
 My email address : lolwish.tzw@gmail.com  
-I'm Malaysian, I fluent in Chinese, English, Malay and Cantonese. But not Hokkien.  
+I'm a Malaysian, of course I fluent in Chinese, English, Malay and Cantonese. But not Hokkien.  
 My skill set in computer programming - Visual Basic, C#, Java, HTML, SQL Server  
 
 ### Education
