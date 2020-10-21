@@ -21,9 +21,9 @@ I first joined the company as an internship for 3 months, and then decided to st
 Below are the projects that I have involved and the job tasks included:  
 
 **Inventory Management System - Kozato Kizai (M) Sdn. Bhd.**  
-**Inventory Management System - eo Aik Hevea (M) Sdn. Bhd.** 
-**ERP System - Panasonic Appliances Foundry Malaysia Sdn. Bhd.** 
-**DTS Android Application - Merck Sdn. Bhd.** 
+**Inventory Management System - eo Aik Hevea (M) Sdn. Bhd.**  
+**ERP System - Panasonic Appliances Foundry Malaysia Sdn. Bhd.**  
+**DTS Android Application - Merck Sdn. Bhd.**  
 
 1. Developing screens/functions for inventory issue, inventory receive, inventory adjustment & physical inventory to manage inventory in the database.
 2. Create reports using Telerik Reporting, like transaction history report and monthly stock report.
