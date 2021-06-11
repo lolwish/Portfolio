@@ -1,32 +1,87 @@
-# Portfolio
+## A clean, beautiful, minimal and responsive portfolio template for Developers!
 
-### Introduction
-Hi, my name is Tong Zhi Wei.  
-Here is my phone number : 012-9832206  
-My email address : lolwish.tzw@gmail.com  
-I'm a Malaysian, of course I fluent in Chinese, English, Malay and Cantonese. But not Hokkien.  
-My skill set in computer programming - Visual Basic, C#, Java, HTML, SQL Server  
+![Web 1920 – 1](https://user-images.githubusercontent.com/16558205/101065060-b44bfc80-35ba-11eb-8ab4-1e6f140c1ec9.png)
 
-### Education
-I graduated from Multimedia University Cyberjaya in September 2019. I started my foundation in June 2015, then enrolled to Bachelor of Computer Science (Hons) with Specialization in Software Engineering in November 2015. My final CGPA is 2.86.
+To view a live example, **[click here](https://react-portfolio-template.netlify.app/)**.
 
-### University Assignment / Project
-During my 1st year until 2nd year, I basically learn C++ and Java, and code using Command Prompt / Notepad ++. And then, follow up with C#. It was a group assignnment, residential management system, and the team members discussed and decided to use C# (Visual Studio) to create a simple desktop application. The application able to post news, edit news and assign payment details while the resident can only login, pay fees and download invoice in pdf file.
 
-On my final year, I choose Offline Handwritten Signatur Verification System as my FYP title. The reason I pick this title is to explore the important of biometric security system in real life plus a deeper learning in C#, IDE (Visual Studio) and Accord.NET library (SVM classifier). For 2 semesters, I have create a desktop application that can do offline handwritten signature verification using classifier to identify genuine or forgery signatures.
+Just change `src/yourdata.js` to get your personal portfolio. Feel free to use it as-is or customize it as much as you want.
 
-### Working Experience
-#### CLK Solution,  Cyberjaya - Programmer (APRIL 2019 to OCTOBER 2020)
-I first joined the company as an internship for 3 months, then decided to stay to learn more plus improve my coding style in VB and SQL.
-Below are the projects that I have involved and the job tasks included:  
+But if you want to **contribute** and make this much better for other developer have a look at [Issues](https://github.com/chetanverma16/react-portfolio-template/issues).
 
-**Inventory Management System - Kozato Kizai (M) Sdn. Bhd.**  
-**Inventory Management System - Yeo Aik Hevea (M) Sdn. Bhd.**  
-**ERP System - Panasonic Appliances Foundry Malaysia Sdn. Bhd.**  
-**DTS Android Application - Merck Sdn. Bhd.**  
 
-1. Developing screens/functions for inventory issue, inventory receive, inventory adjustment & physical inventory to manage inventory in the database.
-2. Create reports using Telerik Reporting, like transaction history report and monthly stock report.
-3. Develop Work Order for users to create a list of ingredients to produce final products.
-4. Involved developing a small part of an Android application, to scan items barcode and insert into inventory.
-5. On-site customer support for enhancing programs, fixing bugs, collecting user requirements and user training.
+If you created something awesome and want to contribute then feel free to open an [pull request](https://github.com/chetanverma16/react-portfolio-template/pulls).
+
+## Features
+- Responsive
+- Modern Design
+- Clean Animations
+- Easy to use
+
+
+## Sections
+✔️ Header
+✔️ Work
+✔️ About
+✔️ Skills
+✔️ Contact
+
+
+## How To Use 
+
+From your command line, clone and run react-portfolio-template:
+
+```bash
+# Clone this repository
+$ git clone https://github.com/chetanverma16/react-portfolio-template
+
+# Go into the repository
+$ cd react-portfolio-template
+
+# Install dependencies
+$ yarn
+
+#Start's development server
+$ gatsby develop
+```
+
+#### Personalize page content in `/src/yourdata.js` & modify it as per your need.
+
+```javascript
+/* Change this file to get your Personal Porfolio */
+ // Edit Values of these variables
+
+name:"chetan",
+headerTagline: [
+    "Building digital",.... 
+]
+
+```
+
+## Deployment
+When you are done with the setup, you should host your website online.
+We highly recommend to read through the [Deploying on Github Pages](https://create-react-app.dev/docs/deployment/#github-pages) docs for React.
+
+#### Deploying to Netlify
+
+You could also host directly with Netlify by linking your own repository.
+
+[![Deploy To Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/chetanverma16/react-portfolio-template)
+
+For more information, read [hosting on Netlify](https://create-react-app.dev/docs/deployment/#netlify).
+
+
+## Technologies Used
+
+- [React](https://reactjs.org/)
+- [Gatsby](https://www.gatsbyjs.com/)
+
+
+
+## For the Future
+If you have awesome ideas on your mind,
+please don't hesitate to open a [pull request](https://github.com/chetanverma16/react-portfolio-template/pulls).
+
+## Thanks
+If you like this portfolio template don't forget give it a ⭐ and also share it with me [here](mailto:hello@chetanverma.com).
+
