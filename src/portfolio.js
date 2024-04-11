@@ -183,7 +183,6 @@ const techStack = {
     {
       Stack: "Frontend/Design", //Insert stack or technology you have experience in
       progressPercentage: "33%" //Insert relative proficiency in percentage
-      progressPercentage: "33%" //Insert relative proficiency in percentage
     },
     {
       Stack: "Backend",
@@ -191,7 +190,6 @@ const techStack = {
     },
     {
       Stack: "Programming",
-      progressPercentage: "70%"
       progressPercentage: "70%"
     }
   ],
@@ -217,10 +215,6 @@ const workExperiences = {
       companylogo: require("./assets/images/CLK_Logo.png"),
       date: "April 2019 - October 2020",
       desc: "As a software engineer at CLK, I am dedicated to developing an ERP system aimed at transitioning client companies from paper-based processes to efficient technology-driven solutions"
-      company: "CLK Solution",
-      companylogo: require("./assets/images/CLK_Logo.png"),
-      date: "April 2019 - October 2020",
-      desc: "As a software engineer at CLK, I am dedicated to developing an ERP system aimed at transitioning client companies from paper-based processes to efficient technology-driven solutions"
     }
   ]
 };
@@ -229,8 +223,6 @@ const workExperiences = {
 To know how to get github key look at readme.md */
 
 const openSource = {
-  showGithubProfile: "false", // Set true or false to show Contact profile using Github, defaults to true
-  display: false // Set false to hide this section, defaults to true
   showGithubProfile: "false", // Set true or false to show Contact profile using Github, defaults to true
   display: false // Set false to hide this section, defaults to true
 };
@@ -265,7 +257,6 @@ const bigProjects = {
       ]
     }
   ],
-  display: false // Set false to hide this section, defaults to true
   display: false // Set false to hide this section, defaults to true
 };
 
@@ -328,7 +319,6 @@ const achievementSection = {
     }
   ],
   display: false // Set false to hide this section, defaults to true
-  display: false // Set false to hide this section, defaults to true
 };
 
 // Blogs Section
@@ -353,7 +343,6 @@ const blogSection = {
     }
   ],
   display: false // Set false to hide this section, defaults to true
-  display: false // Set false to hide this section, defaults to true
 };
 
 // Talks Sections
@@ -373,7 +362,6 @@ const talkSection = {
     }
   ],
   display: false // Set false to hide this section, defaults to true
-  display: false // Set false to hide this section, defaults to true
 };
 
 // Podcast Section
@@ -387,14 +375,10 @@ const podcastSection = {
     "https://anchor.fm/codevcast/embed/episodes/DevStory---Saad-Pasta-from-Karachi--Pakistan-e9givv/a-a15itvo"
   ],
   display: false // Set false to hide this section, defaults to true
-  display: false // Set false to hide this section, defaults to true
 };
 
 const contactInfo = {
   title: emoji("Contact Me ☎️"),
-  subtitle: "",
-  number: "+60-129832206",
-  email_address: "lolwish.tzw@gmail.com"
   subtitle: "",
   number: "+60-129832206",
   email_address: "lolwish.tzw@gmail.com"
@@ -405,10 +389,8 @@ const contactInfo = {
 const twitterDetails = {
   userName: "twitter", //Replace "twitter" with your twitter username without @
   display: false // Set true to display this section, defaults to false
-  display: false // Set true to display this section, defaults to false
 };
 
-const isHireable = true; // Set false if you are not looking for a job. Also isHireable will be display as Open for opportunities: Yes/No in the GitHub footer
 const isHireable = true; // Set false if you are not looking for a job. Also isHireable will be display as Open for opportunities: Yes/No in the GitHub footer
 
 export {
