@@ -79,7 +79,6 @@ https://fontawesome.com/icons?d=gallery */
     },
     {
       skillName: "html",
-      skillName: "c#",
       fontAwesomeClassname: "fab fa-microsoft"
     },
     {
@@ -107,7 +106,6 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-css3-alt"
     },
     {
-      skillName: "javascript",
       skillName: "javascript",
       fontAwesomeClassname: "fab fa-js"
     },
