@@ -45,9 +45,11 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "What I do",
-  subTitle: "DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK \"MAYBE\"?",
+  subTitle: 'DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK "MAYBE"?',
   skills: [
-    emoji("⚡ Develop highly efficiency and maintainability code for your web applications"),
+    emoji(
+      "⚡ Develop highly efficiency and maintainability code for your web applications"
+    ),
     emoji("⚡ Director at Ubisoft...")
   ],
 
@@ -103,12 +105,11 @@ const educationInfo = {
     {
       schoolName: "Multimedia University",
       logo: require("./assets/images/MMU_Logo.png"),
-      subHeader: "Bachelor of Computer Science Specialize in Software Engineering",
+      subHeader:
+        "Bachelor of Computer Science Specialize in Software Engineering",
       duration: "June 2014 - April 2019",
       desc: "",
-      descBullets: [
-        "FYP - Offline Handwritten Signature Verification System"
-      ]
+      descBullets: ["FYP - Offline Handwritten Signature Verification System"]
     }
   ]
 };
@@ -177,11 +178,7 @@ const workExperiences = {
       companylogo: require("./assets/images/Exact_Logo.png"),
       date: "August 2021 – Present",
       desc: "During my tenure of over two years at Exact, I've been an integral part of the payroll KL team, specializing in Dutch payroll functionalities.",
-      descBullets: [
-        "Officient",
-        "Multiple Employment IKV",
-        "No Hand Payroll"
-      ]
+      descBullets: ["Officient", "Multiple Employment IKV", "No Hand Payroll"]
     },
     {
       role: "Front-End Developer",
